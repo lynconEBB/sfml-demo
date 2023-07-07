@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30148 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.29.30148.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30148 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30148.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-21a3dm
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_cd52e && [1/2] Building C object CMakeFiles\cmTC_cd52e.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_cd52e.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-wn0hir
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_67d81 && [1/2] Building CXX object CMakeFiles\cmTC_67d81.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_67d81.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-ss6ttp
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_4cbaf && [1/2] Building C object CMakeFiles\cmTC_4cbaf.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_4cbaf.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-8e66mv
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_7736c && [1/2] Building C object CMakeFiles\cmTC_7736c.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_7736c.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-grjlzn
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_5aec6 && [1/2] Building C object CMakeFiles\cmTC_5aec6.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_5aec6.exe
+
+
+
+Determining size of void* passed with the following output:
+Change Dir: C:/Users/Microsoft/Dev/sfmlgame/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-cm83tq
+
+Run Build Command(s):C:/Users/Microsoft/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe cmTC_ee2ae && [1/2] Building C object CMakeFiles\cmTC_ee2ae.dir\SIZEOF_VOID_PTR.c.obj
+[2/2] Linking C executable cmTC_ee2ae.exe
+
+
+
